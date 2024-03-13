@@ -13,4 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- More information about the different types of coffee on the menu (example: the difference between a macchiato and a cortado)
+- a quick order form so items can be ordered ahead of time
