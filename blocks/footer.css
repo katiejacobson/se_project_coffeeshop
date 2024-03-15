@@ -16,6 +16,13 @@
   width: 105px;
 }
 
+.footer__social-heading {
+  margin: 0 0 20px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+}
+
 .footer__list {
   list-style-type: none;
   padding: 0;
@@ -23,19 +30,13 @@
 }
 
 .footer__list-item {
-  margin: 0;
+  margin-bottom: 16px;
   font-style: normal;
   font-weight: normal;
 }
 
-.footer__list-item:nth-child(2) {
-  margin: 20px 0 16px;
-}
-
-.footer__social-heading {
-  margin: 0;
-  font-style: normal;
-  font-weight: bold;
+.footer__list-item:last-of-type {
+  margin-bottom: 0;
 }
 
 .footer__social-link {

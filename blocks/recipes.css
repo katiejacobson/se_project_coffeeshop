@@ -31,11 +31,13 @@
   display: flex;
   justify-content: center;
   gap: 40px;
+  list-style-type: none;
 }
 
 .recipes__iframe {
   height: 273px;
   width: 480px;
+  border: none;
 }
 
 .recipes__video-caption {

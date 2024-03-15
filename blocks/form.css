@@ -1,6 +1,7 @@
 .form__fieldset {
   margin: auto;
   border: inherit;
+  padding: 0;
 }
 
 .form__label {
@@ -19,6 +20,7 @@
   margin-bottom: 32px;
   padding: 0;
   box-sizing: border-box;
+  border: 1px solid #838383;
 }
 
 .form__input::placeholder {
@@ -42,6 +44,7 @@
   color: #ffffff;
   margin-bottom: 32px;
   padding: 0;
+  border: none;
 }
 
 .form__button:hover {
@@ -62,4 +65,5 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 0;
 }
